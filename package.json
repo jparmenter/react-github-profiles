@@ -1,5 +1,6 @@
 {
   "name": "react-github-profiles",
+  "homepage": "https://jparmenter.github.io/react-github-profiles/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
